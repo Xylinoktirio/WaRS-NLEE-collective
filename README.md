@@ -4,4 +4,4 @@ Welcome to the WaRS (When a Raven Scars)-NLEE (Nothing learned, everything earne
 
 Current status of projects: Ongoing
 
-Wiki: http://wars-manuscript.wikidot.com/start
+Wiki: [http://wars-manuscript.wikidot.com/start WaRS/NLEE Wiki]
